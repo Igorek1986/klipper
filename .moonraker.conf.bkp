@@ -29,12 +29,12 @@ channel = dev
 
 [update_manager mainsail]
 type = web
-repo = meteyou/mainsail
+repo = mainsail-crew/mainsail
 path = ~/mainsail
 
 [update_manager fluidd]
 type = web
-repo = cadriel/fluidd
+repo = fluidd-core/fluidd
 path = ~/fluidd
 
 [update_manager client moonraker-telegram-bot]
